@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YahooFinanceAPI">
+    <output-path>$PROJECT_DIR$/out/artifacts/YahooFinanceAPI</output-path>
+    <root id="archive" name="YahooFinanceAPI.jar">
+      <element id="library" level="project" name="YahooFinanceAPI-3.8.0" />
+    </root>
+  </artifact>
+</component>
