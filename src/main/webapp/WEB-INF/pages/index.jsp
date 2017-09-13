@@ -82,7 +82,7 @@
             </div>
         </div>
         <div class="item">
-            <img class="second-slide" src="http://www.etnomoda.in.ua/img/prazdnik4.jpg" alt="Second slide">
+            <img class="second-slide" src="http://healthyconclusions.com/wp-content/uploads/2016/04/slide04.jpg" alt="Second slide">
             <div class="container">
                 <div class="carousel-caption">
                     <h1>There is rule of margin call</h1>
@@ -93,7 +93,7 @@
             </div>
         </div>
         <div class="item">
-            <img class="third-slide" src="http://www.etnomoda.in.ua/img/prazdnik3.jpg" alt="Third slide">
+            <img class="third-slide" src="http://asianblisstours.com/wp-content/uploads/2017/02/vietnamin_kiertomatka_main.jpg" alt="Third slide">
             <div class="container">
                 <div class="carousel-caption">
                     <h1>Good luck!</h1>
